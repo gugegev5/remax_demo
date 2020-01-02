@@ -23,7 +23,7 @@ $ npm install
 $ npm run dev
 ```
 
-[组件声明文件位置](packages/remax/src/adapters/wechat/components/Progress.ts)
+[组件声明文件位置](https://github.com/remaxjs/remax/blob/master/packages/remax/src/adapters/wechat/components/Progress.ts)
 
 使用微信小程序开发者工具打开项目目录。
 
